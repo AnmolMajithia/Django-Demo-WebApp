@@ -1,5 +1,8 @@
 .directory
 .vscode
+*.jpg
+*.jpeg
+*.png
 
 ### Django ###
 *.log
